@@ -1,0 +1,33 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/fix-readme-config-examples",
+    "feat/279-oidc",
+    "feat/add-missing-make-targets",
+    "fix/351-connector-spec-timestamps",
+    "gsaraiva2109/feat-web-refetch-after-ws-reconnect",
+    "gsaraiva2109/test-profile-coverage-overhead-and-safely-parall",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "docs/fix-readme-config-examples": "main",
+    "feat/279-oidc": "main",
+    "feat/add-missing-make-targets": "main",
+    "fix/351-connector-spec-timestamps": "main",
+    "gsaraiva2109/feat-web-refetch-after-ws-reconnect": "main",
+    "gsaraiva2109/test-profile-coverage-overhead-and-safely-parall": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/fix-readme-config-examples",
+    "feat/279-oidc",
+    "feat/add-missing-make-targets",
+    "fix/351-connector-spec-timestamps",
+    "gsaraiva2109/feat-web-refetch-after-ws-reconnect",
+    "gsaraiva2109/test-profile-coverage-overhead-and-safely-parall",
+    "origin"
+  ]
+}
